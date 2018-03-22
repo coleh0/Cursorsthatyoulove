@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Devs Only"
+AuthUserFile C:/CursorsThatYouLove.com/Download/.htmyxyz
+require valid-user
